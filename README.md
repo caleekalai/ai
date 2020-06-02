@@ -1,2 +1,2 @@
-CALEEKALAI
-Files for AI projects
+Files for AI projects - CALEEKALAI
+
